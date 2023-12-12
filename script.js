@@ -1,0 +1,1 @@
+alert('hola de Javascript')  //Alert para enviar mensaje al cargar el archivo Script.js
