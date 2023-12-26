@@ -2,7 +2,7 @@ body
 {
   color: brown;  
   text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
+  
 }
 #cuerpo
 
@@ -11,4 +11,14 @@ body
     border: 1px solid rgb(222, 231, 226);
     text-align: center;
     margin: 0 auto;
+}
+
+#parrafo
+{
+    color: rgb(10, 10, 10);
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    background-origin: padding-box;
+    margin: 0% auto;
+    border: 1px solid rgb(222, 231, 226);
 }
